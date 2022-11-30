@@ -1,0 +1,30 @@
+/*header*/
+#picture {
+  text-align: center;
+}
+/*main*/
+
+#pretitle {
+  text-align: center;
+  font-family: merriweather;
+  font-size: 15px;
+}
+#pretitle p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#firsttitle {
+  text-align: center;
+  font-family: merriweather;
+  font-size: large;
+  font-size: 28px;
+}
+
+#text {
+  text-align: left;
+  font-size: 1.1rem;
+  padding-left: 150px;
+}
+
+#content {
+  text-align: center;
+}
