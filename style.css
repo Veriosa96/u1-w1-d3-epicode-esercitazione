@@ -2,6 +2,7 @@
 #picture {
   text-align: center;
 }
+
 /*main*/
 
 #pretitle {
@@ -27,4 +28,34 @@
 
 #content {
   text-align: center;
+}
+
+#bon {
+  text-align: center;
+  color: rgba(31, 24, 24, 0.418);
+}
+
+#on {
+  color: rgb(255, 123, 0);
+  padding-left: 20em;
+}
+#sito {
+  padding-left: 20em;
+}
+
+#prefinal {
+  padding-left: 20em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-right: 10em;
+}
+#final {
+  padding-left: 24em;
+  padding-right: 10em;
+}
+#postfinal {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-left: 24em;
+}
+#post {
+  padding-left: 18em;
 }
